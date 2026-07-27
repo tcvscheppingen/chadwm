@@ -2,6 +2,9 @@
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/3c49dd9d-c42d-46c5-9e89-386eafd250cd" />
 
+I really like the natural-feeling keybinds used by DWM in LARBS from Luke Smith and also the looks of Chadwm from Siduck. 
+This fork of Chadwm aims to replicate the natural-feeling keybinds and ease of use from DWM by Luke Smith, with the looks of Chadwm.
+I have configured Chadwm to my own liking and included these changes in this repo.
 
 # Requirements
 
