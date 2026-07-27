@@ -1,6 +1,6 @@
 # Chadwm + Luke Smith DWM Keybinds + Custom Theme
 
-<img width="1919" height="1080" alt="image" src="https://github.com/user-attachments/assets/75ce4fdf-b27c-42e4-bbb8-9186dbc69c80" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/3c49dd9d-c42d-46c5-9e89-386eafd250cd" />
 
 
 # Requirements
