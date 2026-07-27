@@ -5,7 +5,7 @@
 /* Constants */
 #define TERMINAL "st"
 #define TERMCLASS "St"
-#define BROWSER "helium"
+#define BROWSER "librewolf"
 
 /* appearance */
 static const unsigned int borderpx  = 3;        /* border pixel of windows */
@@ -43,7 +43,7 @@ static const int new_window_attach_on_end = 0; /*  1 means the new window will a
 #define ICONSIZE 19   /* icon size */
 #define ICONSPACING 8 /* space between icon and title */
 
-static const char *fonts[]          = {"Iosevka:style:medium:size=12" ,"JetBrainsMono Nerd Font Mono:style:medium:size=19" };
+static const char *fonts[]          = {"Iosevka Nerd Font Mono:style:medium:size=12" ,"JetBrainsMono Nerd Font Mono:style:medium:size=19" };
 
 // theme
 #include "themes/nord.h"
