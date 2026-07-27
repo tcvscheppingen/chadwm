@@ -1,8 +1,10 @@
-Chadwm + Luke Smith DWM Keybinds + Custom Theme
+# Chadwm + Luke Smith DWM Keybinds + Custom Theme
+
+<img width="1919" height="1080" alt="image" src="https://github.com/user-attachments/assets/75ce4fdf-b27c-42e4-bbb8-9186dbc69c80" />
+
 
 # Requirements
 
-- dash (shell)
 - imlib2 
 - xsetroot package (status2d uses this to add colors on dwmbar)
 - JetbrainsMono Nerd Font or any nerd font but dont forget to set it in config.def.h
