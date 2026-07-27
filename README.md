@@ -1,10 +1,4 @@
-# chadwm (Initial look)
-
-
-
-# Tag preview (while hovering tag icon)
-
-https://user-images.githubusercontent.com/59060246/223068062-d3c9847a-8713-42c7-bc9d-07247a0486a8.mp4
+Chadwm + Luke Smith DWM Keybinds + Custom Theme
 
 # Requirements
 
