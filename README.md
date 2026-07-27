@@ -66,7 +66,7 @@ Exec=/home/user/.config/chadwm/scripts/./run.sh
 Type=Application 
 ```
 
-- [wallpaper](https://github.com/siduck/chadwm/blob/screenshots/screenshots/chad.png)
+- [wallpaper](https://github.com/tcvscheppingen/chadwm/blob/main/norway.jpg)
 
 # Recompile
 
