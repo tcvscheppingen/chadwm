@@ -6,3 +6,4 @@ chadwm/*.rej
 .ccls-cache/
 setup*
 up.sh
+chadwm/.config.h.swp

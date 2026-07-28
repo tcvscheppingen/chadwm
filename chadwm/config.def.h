@@ -5,7 +5,7 @@
 /* Constants */
 #define TERMINAL "st"
 #define TERMCLASS "St"
-#define BROWSER "librewolf"
+#define BROWSER "mullvad-browser"
 
 /* appearance */
 static const unsigned int borderpx  = 3;        /* border pixel of windows */
